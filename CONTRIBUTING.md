@@ -13,7 +13,7 @@ Though Grobeh is free and open source, we have to follow some certain standards.
 
 ## Report a bug
 We can’t claim that Gorbeh is bug free. Please be kind and report issues in the following manner:
-* Search for existing issue. We don’t want to get hundreds of duplicated reports. There are even chances that we are already working on that issue you’re facing.
+* Search in [existing issues](/search?type=Issues). We don’t want to get hundreds of duplicated reports. There are even chances that we are already working on that issue you’re facing.
 * Try to reproduce issue. Make sure that issue is made up by Gorbeh Icons and not with your other components with a [reduced test case](https://css-tricks.com/reduced-test-cases/).
 * Include an example. We can fix bugs much faster if we could lay an eye upon it.
 
@@ -22,7 +22,8 @@ Please follow these standards if you want to change some CSS:
 * Multiple-line approach (one property and value per line).
 * Always a space after a property's colon (.e.g, `font=size: 2rem;` and not `font-size:2rem;`).
 * End all lines with a semi-colon.
-* For multiple, comma-separated selectors, place each selector on its own line
+* For multiple, comma-separated selectors, place each selector on its own line.
+
 Note: By contributing in codes, you agree to license your contribution under the terms of the [MIT License](https://opensource.org/licenses/mit-license.html).
 
 ## Support us
