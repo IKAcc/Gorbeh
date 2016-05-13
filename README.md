@@ -36,9 +36,9 @@ in which, `icon_name` is name of your desired icon.
 ## Creators
 * Setareh Karimi
   * Email: Setareh.Karimi@ikacc.ir
-  * Twitter: twitter.com/setarekarimi1
-  * Github: github.com/setarek
+  * Twitter: [twitter.com/setarekarimi1](http://twitter.com/setarekarimi1)
+  * Github: [github.com/setarek](http://github.com/setarek)
 * Javid Izadfar
   * Email: Javid.Izadfar@ikacc.ir
-  * Twitter: twitter.com/JavidIzadfar
-  * Github: github.com/Javid-Izadfar
+  * Twitter: [twitter.com/JavidIzadfar](http://twitter.com/JavidIzadfar)
+  * Github: [github.com/Javid-Izadfar](http://github.com/Javid-Izadfar)
