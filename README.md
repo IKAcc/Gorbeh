@@ -5,7 +5,7 @@ Gorbeh is a pack of 945 scalable vector icons, suitable for web at any size and 
 * Gorbeh Font is licensed under the SIL OFL 1.1:
    * http://scripts.sil.org/OFL
 * Gorbeh CSS files are licensed under the MIT License:
-   * https://opensource.org/licenses/mit-license.html 
+   * https://opensource.org/licenses/mit-license.html
 
 ## Contributing
 We support and encourage any kind of contribution by anyone. Please read through [contributing guidelines](../blob/master/CONTRIBUTING.md). In these guidelines, directions to asking for a new icon, reporting a bug and other notes are fully explained.
@@ -20,12 +20,12 @@ To power up your website with Gorbeh Icons, follow these steps:
 3) Add these lines to your HTML file header:
 ```html
 <!-- Gorbeh Icons -->
-    <link href="your_directory/gorbeh-icons.css" rel="stylesheet">
+    <link href="your_directory/css/gorbeh-icons.css" rel="stylesheet">
 ```
   or
 ```html
 <!-- Gorbeh Icons -->
-    <link href="your_directory/gorbeh-icons.min.css" rel="stylesheet">
+    <link href="your_directory/css/gorbeh-icons.min.css" rel="stylesheet">
 ```
 4) Implement an icon:
 ```html
