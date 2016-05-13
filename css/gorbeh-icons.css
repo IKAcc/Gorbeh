@@ -2,7 +2,7 @@
 /*
 	Gorbeh Icons
 	Created by @setarekarimi1 and @JavidIzadfar
-	Last edit on May 9, 2016
+	Last edit on May 13, 2016
 */
 
 /*
@@ -1947,3 +1947,5 @@ Index
   .gorbeh.gorbeh_zoom_in::before{content:'\e8ff';}
 
   .gorbeh.gorbeh_zoom_out::before{content:'\e900';}
+
+  .gorbeh.gorbeh_zoom_out_map::before{content:'\e56b';}
