@@ -8,7 +8,7 @@ Gorbeh is a pack of 945 scalable vector icons, suitable for web at any size and 
    * https://opensource.org/licenses/mit-license.html
 
 ## Contributing
-We support and encourage any kind of contribution by anyone. Please read through [contributing guidelines](../blob/master/CONTRIBUTING.md). In these guidelines, directions to asking for a new icon, reporting a bug and other notes are fully explained.
+We support and encourage any kind of contribution by anyone. Please read through [contributing guidelines](../master/CONTRIBUTING.md). In these guidelines, directions to asking for a new icon, reporting a bug and other notes are fully explained.
 
 ## Usage
 To power up your website with Gorbeh Icons, follow these steps:
