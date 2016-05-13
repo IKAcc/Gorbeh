@@ -1,5 +1,5 @@
 # Gorbeh Icons
-Gorbeh is a pack of 945 scalable vector icons, suitable for web at any size and on any screen. Gorbeh is originally based on Google’s Material Design Icons; Enhanced and optimized by [Setareh Karimi](https://twitter.com/setarekarimi1 "Setareh Karimi at Twitter") and [Javid Izadfar](https://twitter.com/JavidIzadfar "Javid Izadfar at Twitter") at [IKA Computing Club](http://ikacc.ir/).
+Gorbeh is a pack of 946 scalable vector icons, suitable for web at any size and on any screen. Gorbeh is originally based on Google’s Material Design Icons; Enhanced and optimized by [Setareh Karimi](https://twitter.com/setarekarimi1 "Setareh Karimi at Twitter") and [Javid Izadfar](https://twitter.com/JavidIzadfar "Javid Izadfar at Twitter") at [IKA Computing Club](http://ikacc.ir/).
 
 ## License
 * Gorbeh Font is licensed under the SIL OFL 1.1:
