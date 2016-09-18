@@ -1,8 +1,8 @@
 
 /*
 	Gorbeh Icons
-	Created by @setarekarimi1 and @JavidIzadfar
-	Last edit on May 17, 2016
+	Created by @setarekarimi and @JavidIzadfar
+	Last edit on Sep 18, 2016
 */
 
 /*
@@ -53,7 +53,6 @@ Index
     font-kerning: auto;
     font-synthesis: weight style;
     font-variant: normal;
-    font-size: inherit;
     vertical-align: middle;
     text-rendering: auto;}
 
@@ -159,16 +158,6 @@ Index
                -o-transform: rotate(-360deg);
                   transform: rotate(-360deg);}
     }
-
-  /*
-  =============================================================================================
-  # 2.1 Sizing
-  ---------------------------------------------------------------------------------------------
-  */
-
-    .gorbeh.gorbeh_s1{font-size: 18px;}
-
-
 
 /*
 =================================================================================================
