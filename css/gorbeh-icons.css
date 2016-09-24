@@ -82,26 +82,26 @@ Index
   ---------------------------------------------------------------------------------------------
   */
 
-    .gorbeh.rotate_gorbeh_90{
+    .gorbeh.rotate_90_gorbeh{
       -webkit-transform: rotate(90deg);
          -moz-transform: rotate(90deg);
           -ms-transform: rotate(90deg);
            -o-transform: rotate(90deg);
               transform: rotate(90deg);}
 
-    .gorbeh.rotate_gorbeh_180{
+    .gorbeh.rotate_180_gorbeh{
       -webkit-transform: rotate(180deg);
          -moz-transform: rotate(180deg);
           -ms-transform: rotate(180deg);
            -o-transform: rotate(180deg);
               transform: rotate(180deg);}
 
-    .gorbeh.rotate_gorbeh_270{
+    .gorbeh.rotate_270_gorbeh{
       -webkit-transform: rotate(270deg);
          -moz-transform: rotate(270deg);
           -ms-transform: rotate(270deg);
            -o-transform: rotate(270deg);
-              transform: rotate(2700deg);}
+              transform: rotate(270deg);}
 
   /*
   =============================================================================================
