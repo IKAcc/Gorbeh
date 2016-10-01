@@ -2,7 +2,6 @@
 /*
 	Gorbeh Icons
 	Created by @setarekarimi and @JavidIzadfar
-	Last edit on Sep 18, 2016
 */
 
 /*
@@ -12,7 +11,7 @@ Index
 
 # 1 ::::::::::::::::: Declarations
 # 2 ::::::::::::::::: Transformations
-	# 2.1 ::::::::::::::::: Sizing
+  # 2.1 ::::::::::::::::: Sizing
   # 2.2 ::::::::::::::::: Rotating
   # 2.3 ::::::::::::::::: Mirroring
   # 2.4 ::::::::::::::::: Animating
@@ -82,28 +81,28 @@ Index
   ---------------------------------------------------------------------------------------------
   */
 
--    .gorbeh.rotate_gorbeh_90{
+-    .gorbeh.gorbeh_rotate_90{
        -webkit-transform: rotate(90deg);
           -moz-transform: rotate(90deg);
            -ms-transform: rotate(90deg);
             -o-transform: rotate(90deg);
                transform: rotate(90deg);}
 
- 
--    .gorbeh.rotate_gorbeh_180{
+
+-    .gorbeh.gorbeh_rotate_180{
        -webkit-transform: rotate(180deg);
           -moz-transform: rotate(180deg);
            -ms-transform: rotate(180deg);
             -o-transform: rotate(180deg);
                transform: rotate(180deg);}
- 
- 
-+    .gorbeh.rotate_gorbeh_1800{
+
+
++    .gorbeh.gorbeh_rotate_270{
        -webkit-transform: rotate(270deg);
           -moz-transform: rotate(270deg);
            -ms-transform: rotate(270deg);
             -o-transform: rotate(270deg);
--              transform: rotate(2700deg);}
+-              transform: rotate(270deg);}
 
   /*
   =============================================================================================
