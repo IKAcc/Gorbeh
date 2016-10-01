@@ -122,12 +122,12 @@ Index
   ---------------------------------------------------------------------------------------------
   */
 
-    .gorbeh.gorbeh_animation_rotation{
-      -webkit-animation-name: gorbeh_load_animation;
-         -moz-animation-name: gorbeh_load_animation;
-          -ms-animation-name: gorbeh_load_animation;
-           -o-animation-name: gorbeh_load_animation;
-              animation-name: gorbeh_load_animation;
+    .gorbeh.gorbeh_animate_spin{
+      -webkit-animation-name: gorbeh_spin;
+         -moz-animation-name: gorbeh_spin;
+          -ms-animation-name: gorbeh_spin;
+           -o-animation-name: gorbeh_spin;
+              animation-name: gorbeh_spin;
       -webkit-animation-duration: 1s;
          -moz-animation-duration: 1s;
           -ms-animation-duration: 1s;
@@ -144,19 +144,34 @@ Index
            -o-animation-timing-function: linear;
               animation-timing-function: linear;}
 
-    @keyframes gorbeh_load_animation{
-        from{
-          -webkit-transform: rotate(0deg);
-             -moz-transform: rotate(0deg);
-              -ms-transform: rotate(0deg);
-               -o-transform: rotate(0deg);
-                  transform: rotate(0deg);}
-        to{
-          -webkit-transform: rotate(-360deg);
-             -moz-transform: rotate(-360deg);
-              -ms-transform: rotate(-360deg);
-               -o-transform: rotate(-360deg);
-                  transform: rotate(-360deg);}
+    @-webkit-keyframes gorbeh_spin{
+      from{
+        -webkit-transform: rotate(0deg);
+           -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+             -o-transform: rotate(0deg);
+                transform: rotate(0deg);}
+      to{
+        -webkit-transform: rotate(-359deg);
+           -moz-transform: rotate(-359deg);
+            -ms-transform: rotate(-359deg);
+             -o-transform: rotate(-359deg);
+                transform: rotate(-359deg);}
+    }
+
+    @keyframes gorbeh_spin{
+      from{
+        -webkit-transform: rotate(0deg);
+           -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+             -o-transform: rotate(0deg);
+                transform: rotate(0deg);}
+      to{
+        -webkit-transform: rotate(-359deg);
+           -moz-transform: rotate(-359deg);
+            -ms-transform: rotate(-359deg);
+             -o-transform: rotate(-359deg);
+                transform: rotate(-359deg);}
     }
 
 /*
