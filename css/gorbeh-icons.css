@@ -53,7 +53,11 @@ Index
     font-synthesis: weight style;
     font-variant: normal;
     vertical-align: middle;
-    text-rendering: auto;}
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'liga';}
 
 /*
 =================================================================================================
@@ -94,7 +98,6 @@ Index
            -ms-transform: rotate(180deg);
             -o-transform: rotate(180deg);
                transform: rotate(180deg);}
-
 
     .gorbeh.gorbeh_rotate_270{
        -webkit-transform: rotate(270deg);
@@ -1058,6 +1061,8 @@ Index
 
   .gorbeh.gorbeh_invert_colors_off::before{content:'\e0c4';}
 
+  .gorbeh.gorbeh_iranapps::before{content:'\e254';}
+
   .gorbeh.gorbeh_iso::before{content:'\e3f6';}
 
   .gorbeh.gorbeh_keyboard::before{content:'\e312';}
@@ -1303,6 +1308,8 @@ Index
   .gorbeh.gorbeh_music_video::before{content:'\e063';}
 
   .gorbeh.gorbeh_my_location::before{content:'\e1b3';}
+
+  .gorbeh.gorbeh_myket::before{content: '\e252'}
 
   .gorbeh.gorbeh_nature::before{content:'\e406';}
 
