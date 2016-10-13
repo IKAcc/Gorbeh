@@ -1253,6 +1253,8 @@ Index
 
   .gorbeh.gorbeh_markunread_mailbox::before{content:'\e89b';}
 
+  .gorbeh.gorbeh_mellat::before{content:'\e0c3';}
+
   .gorbeh.gorbeh_memory::before{content:'\e322';}
 
   .gorbeh.gorbeh_menu::before{content:'\e5d2';}
