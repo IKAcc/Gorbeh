@@ -585,6 +585,8 @@ Index
 
   .gorbeh.gorbeh_create_new_folder::before{content:'\e2cc';}
 
+  .gorbeh.gorbeh_creative_commons::before{content:'\e1aa';}
+
   .gorbeh.gorbeh_credit_card::before{content:'\e870';}
 
   .gorbeh.gorbeh_crop::before{content:'\e3be';}
