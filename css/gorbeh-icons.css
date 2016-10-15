@@ -585,6 +585,8 @@ Index
 
   .gorbeh.gorbeh_create_new_folder::before{content:'\e2cc';}
 
+  .gorbeh.gorbeh_creative_commons::before{content:'\e1aa';}
+
   .gorbeh.gorbeh_credit_card::before{content:'\e870';}
 
   .gorbeh.gorbeh_crop::before{content:'\e3be';}
@@ -1252,6 +1254,8 @@ Index
   .gorbeh.gorbeh_markunread::before{content:'\e158';}
 
   .gorbeh.gorbeh_markunread_mailbox::before{content:'\e89b';}
+
+  .gorbeh.gorbeh_mellat::before{content:'\e0c3';}
 
   .gorbeh.gorbeh_memory::before{content:'\e322';}
 
