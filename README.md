@@ -1,5 +1,9 @@
 # Gorbeh Icons
-Gorbeh is a pack of 946 scalable vector icons, suitable for web at any size and on any screen. Gorbeh is originally based on Google’s Material Design Icons; Enhanced and optimized by [Setareh Karimi](https://twitter.com/setarekarimi1 "Setareh Karimi at Twitter") and [Javid Izadfar](https://twitter.com/JavidIzadfar "Javid Izadfar at Twitter") at [IKA Computing Club](http://ikacc.ir/).
+[![](http://ikacc.ir/github-assets/gorbeh-header-v2.0.png)](https://gorbeh.ikacc.ir)
+
+Gorbeh is a pack of +950 scalable vector icons, suitable for web at any size and on any screen. Gorbeh is originally based on Google’s Material Design Icons; Enhanced and optimized by [Setareh Karimi](https://twitter.com/setarekarimi1 "Setareh Karimi at Twitter") and [Javid Izadfar](https://twitter.com/JavidIzadfar "Javid Izadfar at Twitter") at [IKA Computing Club](http://ikacc.ir/).
+
+[![](http://ikacc.ir/github-assets/gorbeh-icons-1.png)](https://gorbeh.ikacc.ir)
 
 ## License
 * Gorbeh Font is licensed under the SIL OFL 1.1:
@@ -20,25 +24,26 @@ To power up your website with Gorbeh Icons, follow these steps:
 3) Add these lines to your HTML file header:
 ```html
 <!-- Gorbeh Icons -->
-    <link href="your_directory/css/gorbeh-icons.css" rel="stylesheet">
+   <link href="your_directory/css/gorbeh-icons.css" rel="stylesheet">
 ```
   or
 ```html
 <!-- Gorbeh Icons -->
-    <link href="your_directory/css/gorbeh-icons.min.css" rel="stylesheet">
+   <link href="your_directory/css/gorbeh-icons.min.css" rel="stylesheet">
 ```
 4) Implement an icon:
 ```html
-<i class="gorbeh gorbeh_icon_name"></i>
+<i class="gb gb_icon_name"></i>
 ```
 in which, `icon_name` is name of your desired icon.
 
 ## Creators
-* Setareh Karimi
+* ![](https://avatars3.githubusercontent.com/u/13146837?v=3&s=16) Setareh Karimi
   * Email: Setareh.Karimi@ikacc.ir
-  * Twitter: [twitter.com/setarekarimi1](http://twitter.com/setarekarimi1)
-  * Github: [github.com/setarek](http://github.com/setarek)
-* Javid Izadfar
+  * Twitter: [twitter.com/SetareKarimi](http://twitter.com/setarekarimi)
+  * Github: [github.com/SetareK](http://github.com/setarek)
+* ![](https://avatars3.githubusercontent.com/u/14288838?v=3&s=16) Javid Izadfar
   * Email: Javid.Izadfar@ikacc.ir
   * Twitter: [twitter.com/JavidIzadfar](http://twitter.com/JavidIzadfar)
   * Github: [github.com/Javid-Izadfar](http://github.com/Javid-Izadfar)
+[![IKA Computing Club](http://ikacc.ir/github-assets/ika-footer.png)](http://ikacc.ir)
