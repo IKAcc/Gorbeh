@@ -7,7 +7,7 @@ Though Grobeh is free and open source, we have to follow some certain standards.
 * Ask for a single icon. Unless they are strictly related (like left/right arrow), they won’t get into consideration.
 * If it is a brand icon you want, make sure it’s notable enough.
 * Be specific. General ideas are hard to implement.
-* Title your new issue Icon request: `gorbeh_name` (e.g., Icon request: `gorbeh_flag`).
+* Title your new issue Icon request: `gb_name` (e.g., Icon request: `gb_flag`).
 * Please indicate some usage of your wanted icon.
 * Include an image representing your wanted icon (single-color is best).
 
