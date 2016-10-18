@@ -34,6 +34,7 @@ Index
     font-weight: 400;
     src: url('../fonts/Gorbeh-Regular.eot');
     src: url('../fonts/Gorbeh-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Gorbeh-Regular.otf') format("opentype"),
          url('../fonts/Gorbeh-Regular.woff2') format('woff2'),
          url('../fonts/Gorbeh-Regular.woff') format('woff'),
          url('../fonts/Gorbeh-Regular.ttf')  format('truetype'),
