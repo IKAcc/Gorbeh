@@ -723,6 +723,8 @@ Index
 
   .gb.gb_email::before{content:'\e158';}
 
+  .gb.gb_enamad::before{content:'\e1ba';}
+
   .gb.gb_enhanced_encryption::before{content:'\e63f';}
 
   .gb.gb_equalizer::before{content:'\e01d';}
@@ -1568,6 +1570,8 @@ Index
   .gb.gb_radio_button_checked::before{content:'\e837';}
 
   .gb.gb_radio_button_unchecked::before{content:'\e836';}
+
+  .gb.gb_rasaneh::before{content:'\e1b9';}
 
   .gb.gb_rate_review::before{content:'\e560';}
 
