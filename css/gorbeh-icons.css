@@ -1571,7 +1571,7 @@ Index
 
   .gb.gb_radio_button_unchecked::before{content:'\e836';}
 
-  .gb.gb_rasaneh::before{content:'\e1b9';}
+  .gb.gb_rasaneh::before{content:'\e1b9'}
 
   .gb.gb_rate_review::before{content:'\e560';}
 
@@ -1768,6 +1768,10 @@ Index
   .gb.gb_skip_next::before{content:'\e044';}
 
   .gb.gb_skip_previous::before{content:'\e045';}
+
+  .gb.gb_skype::before{content:'\e1ac';}
+
+  .gb.gb_slideshare::before{content:'\e1ad';}
 
   .gb.gb_slideshow::before{content:'\e41b';}
 
@@ -2076,6 +2080,8 @@ Index
   .gb.gb_web_asset::before{content:'\e069';}
 
   .gb.gb_weekend::before{content:'\e16b';}
+
+  .gb.gb_whatsapp::before{content:'\e1ce';}
 
   .gb.gb_whatshot::before{content:'\e80e';}
 
