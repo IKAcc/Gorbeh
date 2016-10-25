@@ -775,6 +775,8 @@ Index
 
   .gb.gb_facebook::before{content: '\e157'}
 
+  .gb.gb_facenama::before{content: '\e1b6'}
+
   .gb.gb_fast_forward::before{content:'\e01f'}
 
   .gb.gb_fast_rewind::before{content:'\e020'}
