@@ -44,6 +44,7 @@ Index
     font-family: 'Gorbeh Icons';
     font-style: normal;
     font-weight: normal;
+    vertical-align: middle;
     line-height: 1;
     font-size: inherit;
     font-size-adjust: none;
@@ -53,12 +54,9 @@ Index
     font-kerning: auto;
     font-synthesis: weight style;
     font-variant: normal;
-    vertical-align: middle;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
-    -moz-osx-font-smoothing: grayscale;
-    font-feature-settings: 'liga'}
+    -moz-osx-font-smoothing: grayscale;}
 
 /*
 =================================================================================================
