@@ -44,6 +44,7 @@ Index
     font-family: 'Gorbeh Icons';
     font-style: normal;
     font-weight: normal;
+    vertical-align: middle;
     line-height: 1;
     font-size: inherit;
     font-size-adjust: none;
@@ -53,12 +54,9 @@ Index
     font-kerning: auto;
     font-synthesis: weight style;
     font-variant: normal;
-    vertical-align: middle;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
-    -moz-osx-font-smoothing: grayscale;
-    font-feature-settings: 'liga'}
+    -moz-osx-font-smoothing: grayscale;}
 
 /*
 =================================================================================================
@@ -184,11 +182,11 @@ Index
    ---------------------------------------------------------------------------------------------
    */
 
-      .gb.gb-dark{color: rgba(0, 0, 0, 0.54)}
-      .gb.gb-dark.gb-inactive{color: rgba(0, 0, 0, 0.26)}
+      .gb.gb_dark{color: rgba(0, 0, 0, 0.54)}
+      .gb.gb_dark.gb_inactive{color: rgba(0, 0, 0, 0.26)}
 
-      .gb.gb-light{color: rgba(255, 255, 255, 1)}
-      .gb.gb-light.gb-inactive{color: rgba(255, 255, 255, 0.3)}
+      .gb.gb_light{color: rgba(255, 255, 255, 1)}
+      .gb.gb_light.gb_inactive{color: rgba(255, 255, 255, 0.3)}
 
 /*
 =================================================================================================
