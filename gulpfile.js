@@ -1,10 +1,12 @@
 var gulp = require('gulp');
 var postcss = require('gulp-postcss');
+var postcss_import = require('postcss-import');
 var postcss_simple_vars = require('postcss-simple-vars');
 
 gulp.task('css', function() {
   var plugins = [
-    postcss_simple_vars,
+      postcss_import,
+      postcss_simple_vars,
   ];
   return gulp.src('postcss/gorbeh-icons.css')
   .pipe(postcss(plugins))
