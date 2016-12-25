@@ -1,0 +1,29 @@
+{
+  "name": "gorbeh",
+  "version": "2.1.0",
+  "description": "Material Icons and more, with postCSS toolkit",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKAcc/Gorbeh.git"
+  },
+  "keywords": [
+    "Icon",
+    "Material",
+    "Iran"
+  ],
+  "author": "IKA Computing Club",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IKAcc/Gorbeh/issues"
+  },
+  "homepage": "https://github.com/IKAcc/Gorbeh#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "postcss-simple-vars": "^3.0.0"
+  }
+}
