@@ -20,5 +20,4 @@ gulp.task('default', ['css'], function() {
 
   // watch for CSS changes
   gulp.watch('./postcss/*.css', ["css"]);
-  gulp.watch('./postcss/partials/*.css', ["css"]);
 });

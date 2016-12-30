@@ -10,12 +10,23 @@ Index
 -------------------------------------------------------------------------------------------------
 
 # 2 ::::::::::::::::: Transformation
-# 3 ::::::::::::::::: Initializations
+# 2.1 ::::::::::::::::: Sizing
+# 2.2 ::::::::::::::::: Rotating
+# 2.3 ::::::::::::::::: Mirroring
+# 2.4 ::::::::::::::::: Animating
+# 2.5 ::::::::::::::::: Coloring
+# 3 ::::::::::::::::: Icons
 
 =================================================================================================
 -------------------------------------------------------------------------------------------------
 */
 
-@import 'partials/gorbeh_variables.css';
-@import 'partials/gorbeh_transformation.css';
-@import 'partials/gorbeh_initializations.css';
+@import '_variables.css';
+
+@import '_sizing.css';
+@import '_rotating.css';
+@import '_mirroring.css';
+@import '_animating.css';
+@import '_coloring.css';
+
+@import '_icons.css';
