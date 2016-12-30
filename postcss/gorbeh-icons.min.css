@@ -1,0 +1,14 @@
+/*
+	Gorbeh Icons (v2.1)
+	Created by @setarekarimi and @JavidIzadfar
+*/
+
+@import '_variables.css';
+
+@import '_sizing.css';
+@import '_rotating.css';
+@import '_mirroring.css';
+@import '_animating.css';
+@import '_coloring.css';
+
+@import '_icons.css';

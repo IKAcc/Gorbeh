@@ -27,5 +27,8 @@
     "gulp-postcss": "^6.2.0",
     "postcss-import": "^9.0.0",
     "postcss-simple-vars": "^3.0.0"
+  },
+  "devDependencies": {
+    "cssnano": "^3.9.1"
   }
 }
