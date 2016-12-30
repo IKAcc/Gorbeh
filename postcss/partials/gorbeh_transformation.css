@@ -49,16 +49,9 @@
 
 .gb.gb_animate_spin{
    animation-name: gorbeh_spin;
-   animation-duration: 1s;
+   animation-duration: $gb_animate_spin_duration;
    animation-iteration-count: infinite;
    animation-timing-function: linear}
-
-@-webkit-keyframes gorbeh_spin{
-   from{
-      transform: rotate(0deg)}
-   to{
-      transform: rotate(-359deg)}
-}
 
 @keyframes gorbeh_spin{
    from{

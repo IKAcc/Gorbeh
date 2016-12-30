@@ -16,5 +16,6 @@ Index
 -------------------------------------------------------------------------------------------------
 */
 
+@import 'partials/gorbeh_variables.css';
 @import 'partials/gorbeh_transformation.css';
 @import 'partials/gorbeh_initializations.css';
