@@ -4,8 +4,8 @@
 ---------------------------------------------------------------------------------------------
 */
 
-.gb.gb_dark{color: rgba(0, 0, 0, 0.54)}
-.gb.gb_dark.gb_inactive{color: rgba(0, 0, 0, 0.26)}
+.gb.$(gb_prefix)_dark{color: rgba(0, 0, 0, 0.54)}
+.gb.$(gb_prefix)_dark.gb_inactive{color: rgba(0, 0, 0, 0.26)}
 
-.gb.gb_light{color: rgba(255, 255, 255, 1)}
-.gb.gb_light.gb_inactive{color: rgba(255, 255, 255, 0.3)}
+.gb.$(gb_prefix)_light{color: rgba(255, 255, 255, 1)}
+.gb.$(gb_prefix)_light.gb_inactive{color: rgba(255, 255, 255, 0.3)}

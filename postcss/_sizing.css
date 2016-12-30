@@ -9,10 +9,10 @@
 ---------------------------------------------------------------------------------------------
 */
 
-.gb.gb_s18{font-size: 18px}
+.gb.$(gb_prefix)_s18{font-size: 18px}
 
-.gb.gb_s24{font-size: 24px}
+.gb.$(gb_prefix)_s24{font-size: 24px}
 
-.gb.gb_s36{font-size: 36px}
+.gb.$(gb_prefix)_s36{font-size: 36px}
 
-.gb.gb_s48{font-size: 48px}
+.gb.$(gb_prefix)_s48{font-size: 48px}
