@@ -1,5 +1,6 @@
-$gb_prefix: gb;
 
+$gb_path: ../fonts;
+$gb_prefix: gb;
 $gb_animate_spin_duration: 1s;
 
 $gb_var_3d_rotation: '\e84d';
