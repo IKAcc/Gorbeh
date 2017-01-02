@@ -11,6 +11,7 @@ Index
 
 # 1 ::::::::::::::::: Declarations
 # 1.1 ::::::::::::::::: Path
+# 1.2 ::::::::::::::::: Core
 # 2 ::::::::::::::::: Transformation
 # 2.1 ::::::::::::::::: Sizing
 # 2.2 ::::::::::::::::: Rotating
@@ -26,6 +27,7 @@ Index
 @import '_variables.css';
 
 @import '_path.css';
+@import '_core.css';
 
 @import '_sizing.css';
 @import '_rotating.css';
