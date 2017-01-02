@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------
 */
 
-.gb.$(gb_prefix)_animate_spin{
+.$(gb_prefix).$(gb_prefix)_animate_spin{
    animation-name: gorbeh_spin;
    animation-duration: $gb_animate_spin_duration;
    animation-iteration-count: infinite;

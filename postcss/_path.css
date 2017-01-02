@@ -19,4 +19,4 @@
          url('$gb_path/Gorbeh-Regular.woff2') format('woff2'),
          url('$gb_path/Gorbeh-Regular.woff') format('woff'),
          url('$gb_path/Gorbeh-Regular.ttf')  format('truetype'),
-         url('$gb_path/Gorbeh-Regular.svg#svgFontName') format('svg')}
+         url('$gb_path/Gorbeh-Regular.svg#GorbehIconsRegular') format('svg')}

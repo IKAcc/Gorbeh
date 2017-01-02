@@ -4,11 +4,11 @@
 ---------------------------------------------------------------------------------------------
 */
 
-.gb.$(gb_prefix)_r90{
+.$(gb_prefix).$(gb_prefix)_r90{
    transform: rotate(90deg)}
 
-.gb.$(gb_prefix)_r180{
+.$(gb_prefix).$(gb_prefix)_r180{
    transform: rotate(180deg)}
 
-.gb.$(gb_prefix)_r270{
+.$(gb_prefix).$(gb_prefix)_r270{
    transform: rotate(270deg)}
