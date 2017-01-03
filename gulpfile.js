@@ -16,11 +16,10 @@ gulp.task('css', function() {
   .pipe(gulp.dest('css'));
 });
 
-gulp.task('mini-css', function() {
+gulp.task('cssNano', function() {
   var plugins = [
       postcss_import,
       postcss_simple_vars,
-      autoprefixer,
       cssNano
   ];
   return gulp.src('postcss/gorbeh-icons.min.css')
@@ -29,7 +28,7 @@ gulp.task('mini-css', function() {
 });
 
 // default gulp task
-gulp.task('default', ['css', 'mini-css'], function() {
+gulp.task('default', ['css', 'cssNano'], function() {
 
   // watch for CSS changes
   gulp.watch('./postcss/*.css', ["css"]);
