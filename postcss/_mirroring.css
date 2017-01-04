@@ -4,5 +4,7 @@
 ---------------------------------------------------------------------------------------------
 */
 
-.$(gb_prefix).$(gb_prefix)_mirror{
-   transform: scale(-1, 1)}
+  .$(gb_prefix){
+    &.$(gb_prefix)_mirror{
+       transform: scale(-1, 1)}
+  }
