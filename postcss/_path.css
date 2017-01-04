@@ -1,0 +1,22 @@
+/*
+=================================================================================================
+# 1 Declarations
+-------------------------------------------------------------------------------------------------
+*/
+/*
+=============================================================================================
+# 1.1 Path
+---------------------------------------------------------------------------------------------
+*/
+
+@font-face{
+    font-family: 'Gorbeh Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url('$gb_path/Gorbeh-Regular.eot');
+    src: url('$gb_path/Gorbeh-Regular.eot?#iefix') format('embedded-opentype'),
+         url('$gb_path/Gorbeh-Regular.otf') format("opentype"),
+         url('$gb_path/Gorbeh-Regular.woff2') format('woff2'),
+         url('$gb_path/Gorbeh-Regular.woff') format('woff'),
+         url('$gb_path/Gorbeh-Regular.ttf')  format('truetype'),
+         url('$gb_path/Gorbeh-Regular.svg#GorbehIconsRegular') format('svg')}

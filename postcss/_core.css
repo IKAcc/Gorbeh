@@ -1,0 +1,23 @@
+/*
+=============================================================================================
+# 1.2 Core
+---------------------------------------------------------------------------------------------
+*/
+
+.$(gb_prefix){
+   font-family: 'Gorbeh Icons';
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   vertical-align: middle;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 1;
+   font-size: inherit;
+   text-rendering: auto;
+   font-kerning: auto;
+   font-feature-settings: normal;
+   font-language-override: normal;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}

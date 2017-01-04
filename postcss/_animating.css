@@ -1,0 +1,20 @@
+/*
+=============================================================================================
+# 2.4 Animating
+---------------------------------------------------------------------------------------------
+*/
+
+  .$(gb_prefix){
+    &.$(gb_prefix)_animate_spin{
+       animation-name: gorbeh_spin;
+       animation-duration: $gb_animate_spin_duration;
+       animation-iteration-count: infinite;
+       animation-timing-function: linear}
+  }
+
+@keyframes gorbeh_spin{
+   from{
+      transform: rotate(0deg)}
+   to{
+      transform: rotate(-359deg)}
+}
