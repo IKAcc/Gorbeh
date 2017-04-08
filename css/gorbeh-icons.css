@@ -3056,6 +3056,9 @@ Index
 .gb.gb_wrap_text:before{
     content: '\e25b'}
 
+.gb.gb_youtube:before{
+    content: '\e63b'}
+
 .gb.gb_youtube_searched_for:before{
     content: '\e8fa'}
 
